@@ -1,4 +1,3 @@
-# 04-well.R
 
 library(shiny)
 
